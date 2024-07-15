@@ -1,0 +1,9 @@
+https://www.kaggle.com/code/taarav/face-expression-recognition-project
+https://www.kaggle.com/code/natapat/deliverable-fervt
+https://www.kaggle.com/code/kavish2908/emotion-detection-cnn-keras-opencv
+https://www.kaggle.com/code/aasthasingh21/face-emotion-recognition-efficientnet-b0-pytorch
+
+
+
+
+Dataset path 'C:/Users/Fathima/Downloads/archive (2)/images/YOLOv5-from-scratch/dataset/train'
