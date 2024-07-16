@@ -1,5 +1,5 @@
 artifact_uri: file:///C:/Users/Fathima/Downloads/archive (2)/images/YOLOv5-from-scratch/MLruns/848239952439937537/b6504b1717fa4659a7711aaa0ff0b10c/artifacts
-end_time: null
+end_time: 1721063527077
 entry_point_name: ''
 experiment_id: '848239952439937537'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1721061877656
-status: 1
+status: 3
 tags: []
 user_id: Fathima
