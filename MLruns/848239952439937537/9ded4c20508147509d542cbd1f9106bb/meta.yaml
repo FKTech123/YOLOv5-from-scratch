@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Fathima/Downloads/archive (2)/images/YOLOv5-from-scratch/MLruns/848239952439937537/9ded4c20508147509d542cbd1f9106bb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '848239952439937537'
+lifecycle_stage: active
+run_id: 9ded4c20508147509d542cbd1f9106bb
+run_name: Complex Model
+run_uuid: 9ded4c20508147509d542cbd1f9106bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721187673989
+status: 1
+tags: []
+user_id: Fathima
